@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jan 👋  
 
-<!--
-**xclntx/xclntx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **System Integrator & Admin** working with Kubernetes, Rancher, and all the infrastructure that keeps clusters alive.  
+I like automating things, keeping systems stable, and exploring DevOps tools.  
 
-Here are some ideas to get you started:
+But that's just one side of me:  
+- 👽 Alien logic, human interface – my way of seeing and solving problems  
+- 💻 Oldschool internet kid (IRC days, handle: **xclnt/xclntx**)  
+- 🎮 Gamer since 1982 (Xbox & retro classics are my world)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech focus
+- Kubernetes / Rancher / Fleet  
+- Infrastructure & automation  
+- CI/CD with GitHub & Harbor  
+- Cloud: Google & self-hosted clusters  
+
+## 📌 Pinned Projects
+Here you’ll find a mix of work & play:
+- Infrastructure & DevOps snippets  
+- Cluster setups & automation examples  
+- Hobby repos: gaming notes & retro-internet fun  
