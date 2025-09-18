@@ -19,23 +19,7 @@ But that's just one side of me:
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <!-- Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
-  <br/>
-  <!-- DevOps & Infra -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,github,gitlab&theme=dark" />
-  <br/>
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
-  <br/>
-  <!-- Monitoring & Search -->
-  <img src="https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana&theme=dark" />
-  <br/>
-  <!-- Dev Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode,postman,powershell,wordpress&theme=dark" />
-  <br/>
-  <!-- OS -->
-  <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,git,github,gitlab,postgres,mongodb,elasticsearch,prometheus,grafana,vscode,postman,powershell,wordpress,linux,windows&theme=dark&perline=10" />
 </p>
 
 ---
