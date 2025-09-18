@@ -14,6 +14,32 @@ But that's just one side of me:
 - CI/CD with GitHub & Harbor  
 - Cloud: Google & self-hosted clusters  
 
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <!-- Cloud -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
+  <br/>
+  <!-- DevOps & Infra -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,github,gitlab&theme=dark" />
+  <br/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
+  <br/>
+  <!-- Monitoring & Search -->
+  <img src="https://skillicons.dev/icons?i=elasticsearch,prometheus,grafana&theme=dark" />
+  <br/>
+  <!-- Dev Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode,postman,powershell,wordpress&theme=dark" />
+  <br/>
+  <!-- OS -->
+  <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
+</p>
+
+---
+
 ## 📌 Pinned Projects
 Here you’ll find a mix of work & play:
 - Infrastructure & DevOps snippets  
